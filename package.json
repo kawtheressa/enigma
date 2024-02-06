@@ -1,0 +1,12 @@
+{
+  "name": "enigma",
+  "version": "1.0.0",
+  "description": "ecommerce",
+  "main": "index.js",
+  "author": "kawtheressa <kawther.esam14@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.20.0",
+    "scss": "^0.2.4"
+  }
+}
